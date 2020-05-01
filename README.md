@@ -19,5 +19,6 @@
 2. 示例代码使用Mongodb Altas(Free Tier)
 3. 每秒最多上传1000张图片(API限制)
 4. 每秒可以同时访问无数张图片(CDN限制)
+5. .env文件需要根据实际配置DB_CONNECTION=mongodb,DB_DSN=mongodb+srv://db:xxxx@cluster0-xxxxx.azure.mongodb.net/test?retryWrites=true&w=majority,DB_DATABASE=laravel,GD_IMGDIR=xxxxx
 
   [1]: https://imghost.tech/i/1FJIJI8Ew0B37i-2OYKcJgvnQZKG4Iynh "图片示例"

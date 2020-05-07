@@ -1,4 +1,4 @@
-**Demo:有人总要刷,只能取消DEMO,看什么时候再上.**
+**Demo:https://imghost.tech/ (托管于Heroku,速度并不快!)**
 
 ## 最简单的图床
 
